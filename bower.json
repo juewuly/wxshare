@@ -1,0 +1,17 @@
+{
+  "name": "wxshare",
+  "homepage": "https://github.com/juewuly/wxshare",
+  "authors": [
+    "liuyang <yang.liu@liwushuo.com>"
+  ],
+  "description": "",
+  "main": "",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
